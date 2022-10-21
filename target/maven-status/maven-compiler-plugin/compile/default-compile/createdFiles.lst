@@ -1,0 +1,10 @@
+com\practica01\practica01\repository\PaisRepository.class
+com\practica01\practica01\service\PaisService.class
+com\practica01\practica01\service\IEstadoService.class
+com\practica01\practica01\service\IPaisService.class
+com\practica01\practica01\controller\EstadoController.class
+com\practica01\practica01\repository\EstadoRepository.class
+com\practica01\practica01\entity\Estado.class
+com\practica01\practica01\service\EstadoService.class
+com\practica01\practica01\entity\Pais.class
+com\practica01\practica01\Practica01Application.class
